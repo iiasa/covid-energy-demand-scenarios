@@ -1,0 +1,1 @@
+folder for hosting figures when the script writes them out
